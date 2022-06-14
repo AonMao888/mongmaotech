@@ -12,5 +12,6 @@
 {"name":"Rath Shan","cate":"Education","icon":"https://www.rathshan.com/images/rathshan-logo.png","link":"https://www.rathshan.com","id":"590611"},
 {"name":"ႁၵ်ႉမႅတ်ႈတႃႇ","cate":"Book & Knowledge","icon":"https://watpanghu.files.wordpress.com/2021/07/cropped-hugmetta-6621k.jpg?w=180","link":"https://hugmetta.com","id":"f101ch"},
 {"name":"Tai And English","cate":"Tool & Dictionary","icon":"https://taidic.netlify.app/img/taien.png","link":"https://taidic.netlify.app","id":"taieng"},
-{"name":"Hao Haa ႁဝ်းႁႃး","cate":"Book & Library","icon":"https://static.haohaa.com/apple-touch-icon.png","link":"https://book.haohaa.com","id":"hao555"}
+{"name":"Hao Haa ႁဝ်းႁႃး","cate":"Book & Library","icon":"https://static.haohaa.com/apple-touch-icon.png","link":"https://book.haohaa.com","id":"hao555"},
+{"name":"Tai Student's Union (TSU)","cate":"News and organization","icon":"https://taistudentsunion.org/wp-content/uploads/2022/05/TSU-logo-retina.jpg","link":"https://taistudentsunion.org","id":"tsu357"}
 ]
